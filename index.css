@@ -1,9 +1,13 @@
+html {
+    background: -webkit-linear-gradient(top, rgba(236,232,157,1) 0%,rgba(94,83,115,1) 50%,rgba(24,181,164,1) 100%);
+}
+
 body {
     display: block;
     margin-left: auto;
     margin-right: auto;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;    
     background-image: url()
 }
 
