@@ -45,9 +45,24 @@ input {
 .tabl-img {
     display: block;
     margin-left: auto;
-    margin-right: auto;
-    width: 400px;
+    margin-right: auto; 
+    width: 500px; 
     border: rgba(40, 152, 216, 0.445) 2px solid;
+    
+}
+
+.hover-image {
+    /*display: inline-block; */
+    overflow: hidden;
+}
+
+.hover-image img {
+    transition: 1s; 
+    display: block; 
+}
+
+.hover-image img:hover {
+    transform: scale(1.2);
 }
 
 .first {
