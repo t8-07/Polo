@@ -16,8 +16,8 @@ function onButtonClick() {
         window.alert("VW Polo Sedan 2 gen");
     } else if (generationThree.includes(oneClick)) {
         window.alert("VW Polo Sedan 3 gen");
-    };
-};
+    }
+}
 
 
 

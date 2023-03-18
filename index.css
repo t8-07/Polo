@@ -1,5 +1,5 @@
 html {
-    background: -webkit-linear-gradient(top, rgb(168, 194, 223) 0%,rgb(76, 74, 196) 50%,rgb(58, 24, 181) 100%);
+    background: -webkit-linear-gradient(top, rgb(168, 194, 223) 0%, rgb(76, 74, 196) 50%, rgb(58, 24, 181) 100%);
 }
 
 
@@ -8,7 +8,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-position: center;
-    background-repeat: no-repeat;    
+    background-repeat: no-repeat;
     background-image: url()
 }
 
@@ -20,9 +20,9 @@ body {
     width: 15%
 }
 
-.gain-center{
-    transition: 0.5s; 
-    text-align: center; 
+.gain-center {
+    transition: 0.5s;
+    text-align: center;
 }
 
 .gain-center:hover {
@@ -32,9 +32,7 @@ body {
 .first-table-two {
     text-align: left;
     font-size: 12px;
-    width: 65%
-    font-family: Georgia, "Times New Roman";
-    font-size: 11pt; 
+    width: 65% font-family serif, "Times New Roman";
 }
 
 .first-table-three {
@@ -58,10 +56,10 @@ input {
 .tabl-img {
     display: block;
     margin-left: auto;
-    margin-right: auto; 
-    width: 500px; 
+    margin-right: auto;
+    width: 500px;
     border: rgba(40, 152, 216, 0.445) 2px solid;
-    
+
 }
 
 .hover-image {
@@ -70,8 +68,8 @@ input {
 }
 
 .hover-image img {
-    transition: 1s; 
-    display: block; 
+    transition: 1s;
+    display: block;
 }
 
 .hover-image img:hover {
