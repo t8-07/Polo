@@ -53,6 +53,14 @@ input {
     margin-right: auto;
 }
 
+.tableFlex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    }
+
 .tabl-img {
     display: flex;
     align-items: center;
