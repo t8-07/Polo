@@ -34,7 +34,7 @@ class Tabl {
     }
 
     buttonClickTree() {
-        window.alert("2020, 2021, 2022, 2023");
+        window.alert("2020, 2021, 2022");
     }
 
     onClick(event) {
@@ -45,7 +45,7 @@ class Tabl {
     }
 }
 
-new Tabl(tablEvent);
+new Tabl(tart);
 
 
 
