@@ -59,7 +59,7 @@ input {
     flex-wrap: nowrap;
     justify-content: center;
     align-content: center;
-    }
+}
 
 .tabl-img {
     display: flex;
@@ -72,8 +72,8 @@ input {
 
 }
 
-.hover-image {    
-    display: flex overflow;
+.hover-image {
+    /* display: flex; */
 }
 
 .hover-image img {
@@ -135,4 +135,15 @@ th {
     border: 1px solid #dddddd;
     text-align: center;
     padding: 8px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box div {
+    width: 200px;
+    height: 200px;
 }
