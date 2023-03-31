@@ -72,10 +72,6 @@ input {
 
 }
 
-.hover-image {
-    /* display: flex; */
-}
-
 .hover-image img {
     transition: 1s;
     display: block;
